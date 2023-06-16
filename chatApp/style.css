@@ -1,0 +1,9 @@
+.container{
+    max-width: 450px;
+    margin-top: 70px;
+    
+}
+
+.alert{
+    display: none;
+}

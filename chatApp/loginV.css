@@ -1,0 +1,14 @@
+.container{
+    margin-top: 50px;
+    max-width: 450px;
+    
+}
+
+.alert{
+    display: none;
+}
+
+.push-top img{
+    width: 50%;
+    margin-left: 80px;
+}

@@ -1,0 +1,34 @@
+.wrapper{
+    max-width: 350px;
+    margin: 100px 100px 100px 400px; 
+    padding: 20px;
+    box-shadow: 0 5px 10px rgb(0 0 0.3);
+    border-radius: 20px;
+}
+
+.content{
+    display: flex;
+
+}
+
+.content img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px 10px 10px;
+}
+
+
+.content .details{
+    margin-top: 10px;
+}
+
+.details p{
+    position: relative;
+    bottom: 10px;
+    color: rgb(83, 80, 80);
+}
+
+.chat-box{
+    background: black;
+}

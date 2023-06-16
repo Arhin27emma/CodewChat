@@ -1,0 +1,39 @@
+
+.container{
+    margin-top: 50px;
+    max-width: 800px;
+}
+
+.push-top{
+    display: flex;
+}
+
+.alert{
+    display: none;
+}
+
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mr-2{
+    font-size: 20px;
+}
+
+.img{
+    position: absolute;
+    left: 40rem;
+    top: 5rem;
+}
+
+img{
+    width: 80%;   
+}
+
+.alert{
+    display: none;
+}
+
